@@ -13,7 +13,7 @@ pub fn bigger(a: i32, b: i32) -> i32 {
     }
 }
 
-// Don't mind this for now :)
+// Don't mind this for now 
 #[cfg(test)]
 mod tests {
     use super::*;
